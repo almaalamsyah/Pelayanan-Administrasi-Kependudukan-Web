@@ -1,0 +1,108 @@
+div .logo{
+	width: 90%;
+	height: 270%;
+	background-image: url('../img/lambang3.png');
+	background-size: 70%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.samping{
+	background-color: #1C2833;
+}
+
+.div1{
+	width: 100%;
+	text-align: center;
+	font-size: 100%;
+}
+
+.div2{
+	width: 100%;
+	text-align: justify;
+	font-size: 100%;
+}
+
+.div3{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	font-size: 100%;
+}
+
+.div4{
+	width: 96%;
+	text-align: center;
+	font-size: 100%;
+}
+
+.input{
+	margin-left: -2%;
+	width: 104%;
+}
+
+.text{
+	font-size: 90%;
+}
+
+.kotak{
+	width: 100%;
+	height: 5%;
+}
+
+.space_d{
+	height: 70px;
+}
+
+.input_down{
+	height: 38px;
+	margin-left: -2%;
+	width: 104%;
+}
+
+.submit{
+	margin-left: -2%;
+}
+
+.big:hover{
+	background-color: #f3f3f3;
+}
+
+.tambah{
+	margin-left: 2%;
+}
+
+.label{
+	margin-left: 2%;
+}
+
+.conf{
+	background-color: transparent;
+	color: Black;
+	border: none;
+	margin-left: 3.5%;
+	margin-top: -7%;
+	font-size: 110%;
+	text-align: left;
+	font-weight: bold;
+}
+
+.garis{
+	width: 93%;
+}
+
+.card_info{
+	width: 100%;
+}
+
+.tabel2{
+	width: 100%;
+	background-color: none;
+	color: black;
+}
+
+.responsivee{
+	width: 100%;
+ 	height: auto;
+ 	border-radius: 6px;
+}

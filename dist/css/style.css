@@ -1,0 +1,46 @@
+.hitam{
+	background-color: #454d55;
+	color: white;
+}
+
+.hitamgelap{
+	background-color: #2f3439;
+	color: white;
+	border-color: #2f3439;
+}
+
+.space_d{
+	height: 12px;
+}
+
+.div1{
+	width: 100%;
+	text-align: center;
+	font-size: 100%;
+}
+
+.peta{
+	width: 58%;
+}
+
+.a1{
+	height: 68px;
+}
+
+.input{
+	width: 100%;
+}
+
+.input2{
+	width: 20%;
+}
+
+.emblem{
+	margin-left: -3%;
+}
+
+.input_down{
+	height: 50px;
+	margin-left: -2%;
+	width: 104%;
+}
